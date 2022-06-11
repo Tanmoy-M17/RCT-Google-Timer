@@ -1,0 +1,22 @@
+.timer_container{
+    background-color: aqua;
+    width: 400px;
+    margin: auto;
+}
+.heading{
+    color: crimson;
+}
+.timer_box{
+    background-color: blue;
+    color: whitesmoke;
+}
+.reset{
+    background-color: red;
+}
+.btn{
+    background-color: greenyellow;
+}
+.input_box{
+    background-color: black;
+    color: wheat;
+}
